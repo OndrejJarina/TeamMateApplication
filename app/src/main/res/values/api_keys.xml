@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="api_key"> </string>
+<string name="algolia_api_key"> </string>
+<string name="algolia_app_id"> </string>
+<string name="algolia_index">dev_NAME</string>
+</resources>
